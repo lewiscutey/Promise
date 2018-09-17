@@ -1,1 +1,1 @@
-学习手写一个Promise
+学习手写一个Promise.
